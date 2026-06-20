@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#15130E</color>
+    <color name="bg_card">#1F1B12</color>
+    <color name="bg_card_alt">#262015</color>
+    <color name="border_subtle">#3A3424</color>
+    <color name="gold_accent">#C9A45C</color>
+    <color name="gold_accent_dark">#A8853F</color>
+    <color name="text_primary">#F2E9D8</color>
+    <color name="text_secondary">#8A7C5C</color>
+    <color name="text_on_gold">#1A1610</color>
+    <color name="error_red">#E0786B</color>
+    <color name="button_disabled">#2A2518</color>
+    <color name="text_disabled">#5C5440</color>
+</resources>

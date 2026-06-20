@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NisabGold</string>
+    <string name="app_full_name">NisabGold – Gold Zakat Calculator</string>
+    <string name="about_title">About</string>
+    <string name="share_label">Share</string>
+</resources>
